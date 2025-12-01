@@ -1,37 +1,49 @@
-# Ausgewählte Kurzgeschichten aus meiner Anthologie _„So vergeht die Zeit“_
 
-In diesem Repository veröffentliche ich drei Kurzgeschichten als Leseproben aus meiner Kurzgeschichten-Anthologie _„So vergeht die Zeit“ (2004–2014)_, um neben meinen tech-orientierten Projekten auch meine kreative Schreibkompetenz zu zeigen.
 
-## Leseproben
+# Ausgewählte Kurzgeschichten aus meiner Anthologie
 
-**Online lesen:** [Leseansicht](https://chijzay.github.io/short-stories-samples/)
+In diesem Repository veröffentliche ich eine kleine Auswahl an Kurzgeschichten als Schreibproben aus meiner Anthologie _„So vergeht die Zeit“ (2004–2014)_. Damit ergänze ich mein GitHub-Portfolio neben meinen technisch orientierten Projekten um Creative Writing.
 
-**Im Repository lesen:** [stories/](./stories/)
+## Lesen
+
+- **Online (GitHub Pages):** https://chijzay.github.io/short-stories-samples/
+- **Im Repository:** [`stories/`](./stories/)
 
 ## Kontext
 
-Die Texte entstammen aus meiner Anthologie:
-- *Steven Illg – „So vergeht die Zeit“, Kurzgeschichten Anthologie 2004–2014*
+Die Texte sind Auszüge aus meiner Anthologie:
 
-## Content Notes
-Einige Texte können sensible Themen berühren (z.B. psychische Belastung/Selbstverletzung oder Ähnliches). Wenn dich so etwas triggert, lies bitte achtsam.
+- _Steven Illg – „So vergeht die Zeit“, Kurzgeschichten Anthologie (2004–2014)_
+
+## Hinweis zu Inhalten
+
+Einzelne Texte können sensible Themen berühren (z.B. psychische Belastung, Selbstverletzung oder Ähnliches).  
+Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 
 ## Projektstruktur
 
 ```
-/assets/css
-    style.scss
-/stories/                         #   die Kurzgeschichten (Markdown)
-    der-fiese-lehrer.md
-    jeder-waere-der-falsche.md    #
-    /index.md
-/CITATION.cff
-/LICENSE                          # Lizenzhinweise
-/README.md
-/_config.yml
-/index.md
+.
+├─ assets/                     # Statische Dateien für die Website
+│  └─ css/
+│     └─ style.scss            # Custom-Styles: „buchiger“ Look, Layout/Typografie/Farben
+└─ stories/                    # Kurzgeschichten (Single Source of Truth)
+│  ├─ index.md                 # Übersicht der Leseproben
+│  ├─ der-fiese-lehrer.md      
+│  └─ jeder-waere-der-falsche.md
+├─ README.md                   # Projektübersicht, Links, Kontext, Rechte
+├─ LICENSE                     # © Steven Illg – alle Rechte vorbehalten (keine Weiterverwendung ohne Erlaubnis)
+├─ CITATION.cff                # Zitierhinweise für das Repository (GitHub „Cite this repository“)
+├─ _config.yml                 # Jekyll/GitHub Pages Konfiguration (Theme, Permalinks, Metadaten)
+└─ index.md                    # Startseite der GitHub-Pages-Website (Landingpage)
 ```
 
-## Kontakt
+## Kontakt 
 
 Wenn du mich kontaktieren möchtest, nutze bitte am besten den Kontaktweg über mein GitHub-Profil.
+
+## Lizenz / Rechte
+
+© Steven Illg — **alle Rechte vorbehalten**.
+
+Es wird **keine** Lizenz zur Vervielfältigung, Verbreitung, Bearbeitung oder sonstigen Weiterverwendung der Texte eingeräumt. Details siehe [`LICENSE`](./LICENSE).
