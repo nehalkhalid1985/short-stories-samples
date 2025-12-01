@@ -2,12 +2,13 @@
 
 In diesem Repository veröffentliche ich drei Kurzgeschichten als Leseproben aus meiner Kurzgeschichten-Anthologie _„So vergeht die Zeit“ (2004–2014)_, um neben meinen tech-orientierten Projekten auch meine kreative Schreibkompetenz zu zeigen.
 
-## Inhalte
+## Leseproben
 
-**Leseproben (Markdown):**
+➡️ **Online lesen:**
+- [Leseansicht](https://chijzay.github.io/short-stories-samples/)
 
-- [Der fiese Lehrer](stories/der-fiese-lehrer.md)
-- [Jeder wäre der Falsche](stories/jeder-waere-der-falsche.md)
+➡️ **Im Repository (Markdown-Dateien):**
+- [stories/](./stories/)
 
 ## Kontext
 
