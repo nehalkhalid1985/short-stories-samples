@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Leseproben
 Der fiese Lehrer: 2004
 Jeder wäre der Falsche: 2011
@@ -11,3 +10,4 @@ Jeder wäre der Falsche: 2011
 
 - [Der fiese Lehrer](./der-fiese-lehrer.md/)
 - [Jeder wäre der Falsche](./jeder-waere-der-falsche.md/)
+
