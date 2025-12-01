@@ -6,7 +6,6 @@ status: "Leseprobe"
 written: "Hamburg, 2011"
 language: "de"
 rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
-permalink: /stories/jeder-waere-der-falsche/
 ---
 
 [Zur Startseite](https://chijzay.github.io/short-stories-samples/) · [Zurück zu den Geschichten](https://chijzay.github.io/short-stories-samples/stories/)
