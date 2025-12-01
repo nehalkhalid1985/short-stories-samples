@@ -15,4 +15,4 @@ _„So vergeht die Zeit“_ (2004–2014)
 
 ---
 
-© Steven Illg — **alle Rechte vorbehalten** (Siehe `LICENSE` im Repository.)
+© Steven Illg — **alle Rechte vorbehalten** (Siehe `LICENSE` im Repository)
