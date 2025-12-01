@@ -4,10 +4,10 @@ In diesem Repository veröffentliche ich drei Kurzgeschichten als Leseproben aus
 
 ## Leseproben
 
-➡️ **Online lesen:**
+**Online lesen:**
 - [Leseansicht](https://chijzay.github.io/short-stories-samples/)
 
-➡️ **Im Repository (Markdown-Dateien):**
+**Im Repository (Markdown-Dateien):**
 - [stories/](./stories/)
 
 ## Kontext
