@@ -10,7 +10,3 @@ Hier findest du ausgewählte Kurzgeschichten als Leseproben aus meiner Anthologi
 ---
 
 © Steven Illg — **alle Rechte vorbehalten**. (Siehe `LICENSE` im Repository.)
-
-
-
-
