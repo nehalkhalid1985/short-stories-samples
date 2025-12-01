@@ -9,17 +9,16 @@ rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
 permalink: /stories/jeder-waere-der-falsche/
 ---
 
+**Hinweis zur Nutzung:** 
+Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
+Siehe [`LICENSE`](../LICENSE).
+
 [Startseite](https://chijzay.github.io/short-stories-samples/) · [Alle Geschichten](https://chijzay.github.io/short-stories-samples/stories/)
 
 # Jeder wäre der Falsche
 
-**Kurzinfo:** Kurzgeschichte aus der Anthologie *„So vergeht die Zeit“*.  
-**Hinweis zur Nutzung:** Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. Siehe [`LICENSE`](../LICENSE).
 
-## Content Notes
-- Keine Angaben.
 
-## Text
 Einfach überall. Überall ist Gummi. Vor mir, hinter
 mir, sogar links und rechts neben mir.
 
