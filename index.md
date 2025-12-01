@@ -3,7 +3,7 @@ layout: default
 title: Start
 ---
 
-# Kurzgeschichten — Leseproben
+# Ausgewählte Kurzgeschichten
 
 Willkommen! 
 
@@ -17,3 +17,4 @@ Hier findest du ausgewählte Kurzgeschichten als Leseproben aus meiner Anthologi
 
 **Rechte:** © Steven Illg — **alle Rechte vorbehalten**.  
 Keine Vervielfältigung, Verbreitung oder Bearbeitung ohne ausdrückliche Erlaubnis (siehe `LICENSE` im Repo).
+
