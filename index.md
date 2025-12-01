@@ -12,7 +12,9 @@ Hier findest du ausgewählte Kurzgeschichten als Leseproben aus meiner Anthologi
 ➡️ **Online lesen:** [Leseansicht](https://chijzay.github.io/short-stories-samples/)
 
 ➡️ **Im Repo (Markdown-Dateien):** [stories/](./stories/)
+
 ---
 
 © Steven Illg — **alle Rechte vorbehalten**. (Siehe `LICENSE` im Repository.)
+
 
