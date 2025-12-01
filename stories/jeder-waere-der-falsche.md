@@ -59,14 +59,15 @@ Auf einen Schlag beginnen meine Beine zu rennen. Ich remple einen Passanten an, 
 
 Verzweifelt unternehme ich einen erneuten Versuch und renne los, aber der Ablauf von eben wiederholt sich.
 
-Wieder höre ich ein seltsames Klirren in meinen Ohren. Plötzlich öffnet sich eine Tür. Daraufhin höre ich unmittelbar neben mir laute Stimmen sprechen, die ich keiner Personen zuordnen kann. Sie wollen mir Amitriptylin und Haloperidol verabreichen.
+Wieder höre ich ein seltsames Klirren in meinen Ohren. Plötzlich öffnet sich eine Tür. Daraufhin höre ich unmittelbar neben mir laute Stimmen sprechen, die ich keiner Personen zuordnen kann. Sie wollen mir _Amitriptylin_ und _Haloperidol_ verabreichen.
 
 Ich breche in Tränen aus und falle auf den Boden. Zügig sammelt sich um mich herum eine Handvoll geschockter Passanten.
 
 Ich liege zuckend auf dem Boden des Hafens und bringe nur noch folgende Worte über meine Lippen:
 
->_»Warum kann ich ihnen nicht helfen?_ <br>
->_... warum ich? ... warum wir?«_
+_»Warum kann ich ihnen nicht helfen?_
+
+_... warum ich? ... warum wir?«_
 
 </div>
 
