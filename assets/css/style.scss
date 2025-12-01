@@ -25,7 +25,7 @@ body {
   background: var(--header);
   background-image: none !important;
   text-align: left;
-  padding: 2.25rem 1rem 4.0rem;
+  padding: 2.25rem 1rem 4rem;
 }
 
 .project-name {
@@ -54,7 +54,7 @@ a {
 
 /* Content als “Buchseite” */
 .main-content {
-  max-width: 1200px;
+  max-width: 1200px; /* <- Breite hier anpassen */
   margin: -2.75rem auto 3rem;
   background: var(--card);
   border-radius: 18px;
@@ -64,7 +64,7 @@ a {
   line-height: 1.9;
 }
 
-/* Buchtypografie */
+/* Überschriften */
 .main-content h1,
 .main-content h2,
 .main-content h3 {
@@ -73,44 +73,34 @@ a {
 }
 
 .main-content h1 {
-  font-size: 2.0rem;
+  font-size: 2rem;
   margin-top: 0.1rem;
   margin-bottom: 1rem;
 }
 
-/* Fließtext */
+/* Standard: KEIN Blocksatz, KEIN Einzug (für Startseite/Übersicht/Meta) */
 .main-content p {
   margin: 0 0 1.15rem;
+  text-indent: 0;
+  text-align: left;
+  hyphens: manual;
+}
+
+/* ===== Nur Story-Fließtext: blockig + Einzug ===== */
+.story p {
   text-align: justify;
   hyphens: auto;
 }
 
-/* Absatz-Einzug NUR im Fließtext:
-   - Standard: kein Einzug
-   - Einzug nur wenn Absatz direkt auf Absatz folgt
-   - kein Einzug direkt nach Überschriften
-   - kein Einzug nach „UI“-Blöcken (Listen, Code, Zitat, etc.)
-*/
-.main-content p {
-  text-indent: 0;
-}
-
-.main-content p + p {
+/* Einzug nur innerhalb .story und nur wenn Absatz auf Absatz folgt */
+.story p + p {
   text-indent: 1.1em;
 }
 
-.main-content h1 + p,
-.main-content h2 + p,
-.main-content h3 + p {
-  text-indent: 0;
-}
-
-.main-content ul + p,
-.main-content ol + p,
-.main-content blockquote + p,
-.main-content .highlight + p,
-.main-content pre + p,
-.main-content hr + p {
+/* Im Story-Block nach Überschriften kein Einzug */
+.story h1 + p,
+.story h2 + p,
+.story h3 + p {
   text-indent: 0;
 }
 
@@ -124,7 +114,7 @@ a {
 
 /* Footer */
 .site-footer {
-  max-width: 860px; /* <- passend zur main-content Breite */
+  max-width: 860px;
   margin: 0 auto 2.5rem;
   padding: 0 1rem;
   color: var(--muted);
@@ -153,4 +143,3 @@ a {
     max-width: 100%;
   }
 }
-
