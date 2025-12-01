@@ -19,12 +19,14 @@ rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
 ## Text
 Einfach überall. Überall ist Gummi. Vor mir, hinter
 mir, sogar links und rechts neben mir.
+
 Plötzlich höre ich das Klirren eines Schlüssels in
 meinem Ohr, jedoch muss ich mir eingestehen, dass
 der Klang nur in meinen Gedanken ertönt. Ich sehe
 einen winkenden Mann mit blauem Shirt, den ich zwar
 zu kennen glaube, aber nicht erkennen kann.
 Er lacht und ruft nach mir.
+
 Ich spüre die warme Sonne, die durch das Fenster
 in den Raum scheint, obwohl es mitten in der Nacht
 ist. Dennoch will ich ihre wohlen Strahlen tanken
