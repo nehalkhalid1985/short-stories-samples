@@ -9,7 +9,7 @@ abstract: "Three short story excerpts published as a writing sample on GitHub."
 language: de
 license: "LicenseRef-All-Rights-Reserved"
 repository-code: "https://github.com/Chijzay/short-stories-samples"
-url: "https://Chijzay.github.io/short-stories-samples/"
+url: "https://chijzay.github.io/short-stories-samples/"
 
 preferred-citation:
   type: creativework
@@ -18,5 +18,6 @@ preferred-citation:
     - family-names: "Illg"
       given-names: "Steven"
   year: 2014
-  url: "https://Chijzay.github.io/short-stories-samples/"
+  url: "https://chijzay.github.io/short-stories-samples/"
   notes: "Text excerpts. © Steven Illg. All rights reserved."
+
