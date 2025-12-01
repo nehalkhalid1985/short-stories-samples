@@ -44,7 +44,7 @@ Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 ├─ LICENSE                     # © Steven Illg – keine Weiterverwendung ohne Erlaubnis
 ├─ CITATION.cff                # Zitierhinweise für das Repository 
 ├─ _config.yml                 # Jekyll und GitHub Pages Konfiguration
-└─ index.md                    # Startseite der GitHub-Pages-Website (Landingpage)
+└─ index.md                    # Startseite der GitHub-Pages-Website
 ```
 
 ## Kontakt 
