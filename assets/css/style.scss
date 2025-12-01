@@ -3,24 +3,93 @@
 
 @import "{{ site.theme }}";
 
-/* 1) Lesebreite & Typo */
-.page-header { padding: 3rem 1rem; }
+/* =========
+   Book-ish layout for Cayman
+   ========= */
 
-.main-content {
-  max-width: 680px;     /* schmaler = buchiger */
-  margin: 0 auto;
-  font-size: 1.12rem;
-  line-height: 1.85;
+/* 1) Grundlook: Papier + ruhiger Text */
+body {
+  background: #f3f1ec;               /* warmes “Papier”-Grau */
+  color: #1b1b1b;
 }
 
-/* 2) Überschriften etwas “buchiger” */
+a {
+  color: #2b4ed8;                    /* seriöses Blau statt Grün */
+}
+a:hover {
+  color: #1f3aa8;
+}
+
+/* 2) Header: weg vom Grün-Gradient, mehr “Editorial” */
+.page-header {
+  background: #111827;              /* fast-schwarz */
+  background-image: none !important;
+  padding: 2.25rem 1rem 4.25rem;    /* unten mehr Platz für “Card”-Overlap */
+  text-align: left;
+}
+
+.project-name {
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  font-size: 2rem;
+  margin: 0;
+}
+
+.project-tagline {
+  opacity: 0.9;
+  font-size: 1.05rem;
+  margin-top: .6rem;
+}
+
+/* optional: den “View on GitHub”-Button ausblenden */
+.page-header .btn {
+  display: none;
+}
+
+/* 3) Content als “Buch-Seite” (Card) */
+.main-content {
+  max-width: 740px;
+  margin: -2.75rem auto 3rem;       /* zieht Content in den Header rein */
+  background: #ffffff;
+  border-radius: 18px;
+  padding: 2.25rem 2.25rem;
+  box-shadow: 0 20px 55px rgba(0,0,0,.10);
+  font-size: 1.12rem;
+  line-height: 1.9;
+}
+
+/* mobile */
+@media (max-width: 640px) {
+  .page-header { padding-bottom: 3.5rem; }
+  .main-content {
+    margin: -2rem 1rem 2rem;
+    padding: 1.35rem 1.2rem;
+    border-radius: 14px;
+    font-size: 1.05rem;
+    line-height: 1.8;
+  }
+}
+
+/* 4) Typografie: “buchiger” */
 .main-content h1, .main-content h2, .main-content h3 {
   letter-spacing: -0.02em;
+  color: #111827;
 }
 
-/* 3) Mehr Luft zwischen Absätzen */
-.main-content p { margin: 0 0 1.25rem; }
+.main-content h1 {
+  font-size: 2.0rem;
+  margin-top: 0.2rem;
+  margin-bottom: 1rem;
+}
 
-/* 4) Listen & Links unaufgeregter */
-.main-content ul { padding-left: 1.2rem; }
-.main-content a { text-decoration-thickness: 2px; text-underline-offset: 3px; }
+.main-content p {
+  margin: 0 0 1.15rem;
+}
+
+/* Buch-Feeling: Blocksatz + Silbentrennung (funktioniert am besten, wenn Seite lang=de hat) */
+.main-content p {
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Absatz-Ein*
