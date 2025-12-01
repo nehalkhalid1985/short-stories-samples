@@ -17,10 +17,7 @@ Mein Name ist Hermann Winkler. Ich arbeite als Lehrer an der _Gesamtschule Mümm
 
 Ich stecke in diesem Schlamassel wegen einen meiner Schüler. Der Vorfall begann vor einer Woche.
 
-<div align="right">_Montag, 13.September 2004 in Hamburg_</div>
-
-
-<p align="right">Dieser Absatz ist rechtsbündig.</p>
+>_Montag, 13.September 2004 in Hamburg_
 
 Das vergangene Wochenende war überraschend angenehm und ließ einen vielversprechenden Wochenstart vermuten. Ich wurde an diesem Montagmorgen wie gewohnt um 5 Uhr wach. Träge zog ich die am Vortag vorbereiteten Kleidungsstücke über, frühstückte eine Kleinigkeit und fuhr mit dem Auto zur Schule, die ich kurz nach 7 Uhr erreichte. Ich parkte das Auto hinter den Sporthallen auf den Lehrerparkplätzen und ging schnurstracks zum Lehrerzimmer. Dort angekommen stellte ich fest, dass ich noch ausreichend Zeit zur Verfügung hatte und nahm ein paar Vorbereitungen vor. Ich kopierte die heutigen Aufgabenblätter und sammelte für die Hausaufgaben passende Seiten im Schulbuch.
 
@@ -120,6 +117,7 @@ Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 1.
 **Hinweis zur Nutzung:** <br> 
 Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
 Siehe [`LICENSE`](../LICENSE).
+
 
 
 
