@@ -2,7 +2,6 @@
 title: "Der fiese Lehrer"
 author: "Steven Illg"
 collection: '„So vergeht die Zeit“ – Kurzgeschichten Anthologie (2004–2014)'
-status: "Leseprobe"
 written: "Hamburg, 2004"
 language: "de"
 rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
@@ -26,6 +25,7 @@ Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 1.
 **Hinweis zur Nutzung:** <br> 
 Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
 Siehe [`LICENSE`](../LICENSE).
+
 
 
 
