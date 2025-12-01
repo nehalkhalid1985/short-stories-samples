@@ -13,7 +13,9 @@ permalink: /stories/jeder-waere-der-falsche/
 
 # Jeder wäre der Falsche
 
-Einfach überall. Überall ist Gummi. Vor mir, hinter
+<div class="story">
+
+  Einfach überall. Überall ist Gummi. Vor mir, hinter
 mir, sogar links und rechts neben mir.
 
 Plötzlich höre ich das Klirren eines Schlüssels in
@@ -156,6 +158,7 @@ bringe nur noch folgende Worte über meine Lippen:
 _... warum ich,_
 _... warum wir?«_
 
+</div>
 ---
 
 **Quelle:**  <br>
