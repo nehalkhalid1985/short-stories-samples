@@ -1,18 +1,16 @@
-# Kurzgeschichten (Auswahl) – „So vergeht die Zeit“
+# Ausgewählte Kurzgeschichten aus meiner Anthologie _„So vergeht die Zeit“_
 
 In diesem Repository veröffentliche ich drei Kurzgeschichten als Leseproben aus meiner Kurzgeschichten-Anthologie _„So vergeht die Zeit“ (2004–2014)_, um neben meinen tech-orientierten Projekten auch meine kreative Schreibkompetenz zu zeigen.
 
 ## Leseproben
 
-**Online lesen:**
-- [Leseansicht](https://chijzay.github.io/short-stories-samples/)
+**Online lesen:** [Leseansicht](https://chijzay.github.io/short-stories-samples/)
 
-**Im Repository (Markdown-Dateien):**
-- [stories/](./stories/)
+**Im Repository lesen:** [stories/](./stories/)
 
 ## Kontext
 
-Die Texte entstammen der Anthologie:
+Die Texte entstammen aus meiner Anthologie:
 - *Steven Illg – „So vergeht die Zeit“, Kurzgeschichten Anthologie 2004–2014*
 
 ## Content Notes
@@ -21,19 +19,18 @@ Einige Texte können sensible Themen berühren (z.B. psychische Belastung/Selbst
 ## Projektstruktur
 
 ```
-/stories/
+/assets/css
+    style.scss
+/stories/                         #   die Kurzgeschichten (Markdown)
     der-fiese-lehrer.md
-    jeder-waere-der-falsche.md
+    jeder-waere-der-falsche.md    #
     /index.md
 /CITATION.cff
-/LICENSE
+/LICENSE                          # Lizenzhinweise
 /README.md
 /_config.yml
 /index.md
 ```
-
-- `stories/` – die Kurzgeschichten (Markdown)
-- `LICENSE` – Lizenzhinweise für Code und Texte
 
 ## Kontakt
 
