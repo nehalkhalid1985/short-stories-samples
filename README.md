@@ -27,7 +27,7 @@ Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 ├─ assets/                     # Statische Dateien für die Website
 │  └─ css/
 │     └─ style.scss            # Custom-Styles: Layout, Typografie, Farben
-└─ stories/                    # Kurzgeschichten (Single Source of Truth)
+├─ stories/                    # Kurzgeschichten (Single Source of Truth)
 │  ├─ index.md                 # Übersicht der Leseproben
 │  ├─ der-fiese-lehrer.md      
 │  └─ jeder-waere-der-falsche.md
