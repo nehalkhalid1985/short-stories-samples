@@ -9,7 +9,7 @@ rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
 permalink: /stories/jeder-waere-der-falsche/
 ---
 
-[Startseite](/) · [Alle Stories](/stories/) · [LICENSE]({{ site.github.repository_url }}/blob/main/LICENSE)
+[Startseite](https://chijzay.github.io/short-stories-samples/) · [Alle Geschichten](https://chijzay.github.io/short-stories-samples/stories/)
 
 # Jeder wäre der Falsche
 
