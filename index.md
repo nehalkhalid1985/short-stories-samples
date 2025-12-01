@@ -3,12 +3,12 @@
 
 Willkommen! 
 
-Hier findest du ausgewählte Kurzgeschichten als Leseproben aus meiner Anthologie _„So vergeht die Zeit (2004–2014)“_.
+Hier findest du ausgewählte Kurzgeschichten als Leseproben aus meiner Anthologie<br> 
+_„So vergeht die Zeit“_ (2004–2014)
 
 **Zu den Kurzgeschichten:** 
 
-[Übersicht](./stories/)
+#**[Übersicht](./stories/)**
 
-© Steven Illg — **alle Rechte vorbehalten** 
-
+© Steven Illg — **alle Rechte vorbehalten** <br>
 (Siehe `LICENSE` im Repository.)
