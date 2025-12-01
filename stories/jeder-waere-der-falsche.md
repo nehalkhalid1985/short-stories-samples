@@ -33,7 +33,11 @@ Scheibe ein Brett, statt einer Fensterbank schmücken
 prunkvolle Metallstäbe die schlicht gehaltene, quadratische
 Öffnung, von der mir die Umgebung abseits des
 Raumes nicht bekannt ist.
+
 Mein Mund ist trocken; ich habe Durst.
+
+</div>
+
 Dann höre ich das Horn eines Dampfers; eines
 Kreuzfahrtschiffs. Ich beobachte den Qualm, der aus
 seinem Schornstein in die weite Ferne des Horizontes
@@ -158,7 +162,6 @@ bringe nur noch folgende Worte über meine Lippen:
 _... warum ich,_
 _... warum wir?«_
 
-</div>
 
 ---
 
