@@ -1,12 +1,13 @@
 ---
 title: "Jeder wäre der Falsche"
 author: "Steven Illg"
-collection: "So vergeht die Zeit" – Kurzgeschichten Anthologie (2004–2014)
+collection: '„So vergeht die Zeit“ – Kurzgeschichten Anthologie (2004–2014)'
 status: "Leseprobe"
 written: "Hamburg, 2011"
 language: "de"
 rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
 ---
+
 
 # Jeder wäre der Falsche
 
