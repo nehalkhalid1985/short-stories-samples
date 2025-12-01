@@ -30,21 +30,4 @@ Hier findest du ausgewählte Kurzgeschichten als Leseproben aus meiner Anthologi
 
 ---
 
-<p style="margin-top: 1.25rem;">
-  <a
-    href="{{ site.baseurl }}/stories/"
-    style="
-      display: inline-block;
-      padding: .85rem 1.1rem;
-      border-radius: 12px;
-      background: #2b4ed8;
-      color: #fff;
-      text-decoration: none;
-      font-weight: 600;
-    "
-  >Zur Übersicht</a>
-</p>
-
-<hr>
-
 © Steven Illg — **alle Rechte vorbehalten** (siehe `LICENSE` im Repository)
