@@ -6,7 +6,6 @@ status: "Leseprobe"
 written: "Hamburg, ca. 2006 - 2007"
 language: "de"
 rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
-permalink: /stories/der-ring/
 ---
 
 [Zur Startseite](https://chijzay.github.io/short-stories-samples/) · [Zurück zu den Geschichten](https://chijzay.github.io/short-stories-samples/stories/)
