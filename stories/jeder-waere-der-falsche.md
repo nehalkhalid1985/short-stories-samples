@@ -10,7 +10,7 @@ rights: "© 2014 Steven Illg. Alle Rechte vorbehalten."
 
 [Zur Startseite](https://chijzay.github.io/short-stories-samples/) · [Zurück zu den Geschichten](https://chijzay.github.io/short-stories-samples/stories/)
 
-# Jeder wäre der Falsche
+# **Jeder wäre der Falsche**
 
 <div class="story" markdown="1">
 
