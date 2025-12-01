@@ -1,9 +1,22 @@
 cff-version: 1.2.0
-message: "If you use or reference these short story excerpts, please cite them."
+message: "If you reference these short story excerpts, please cite them."
 type: creativework
-title: "So vergeht die Zeit — Leseproben"
+title: "So vergeht die Zeit — Leseproben (Kurzgeschichten)"
 authors:
-  - family-names: Illg
-    given-names: Steven
-year: 2014
-license: "All rights reserved"
+  - family-names: "Illg"
+    given-names: "Steven"
+abstract: "Three short story excerpts published as a writing sample on GitHub."
+language: de
+license: "LicenseRef-All-Rights-Reserved"
+repository-code: "https://github.com/Chijzay/short-stories-samples"
+url: "https://Chijzay.github.io/short-stories-samples/"
+
+preferred-citation:
+  type: creativework
+  title: "So vergeht die Zeit — Leseproben (Kurzgeschichten)"
+  authors:
+    - family-names: "Illg"
+      given-names: "Steven"
+  year: 2014
+  url: "https://Chijzay.github.io/short-stories-samples/"
+  notes: "Text excerpts. © Steven Illg. All rights reserved."
