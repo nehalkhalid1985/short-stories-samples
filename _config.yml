@@ -1,11 +1,5 @@
-title: "Kurzgeschichten — Leseproben"
-description: "Ausgewählte Kurzgeschichten (Leseproben). © Steven Illg. Alle Rechte vorbehalten."
+title: "Ausgewählte Kurzgeschichten (Leseproben)"
+description: "© Steven Illg. Alle Rechte vorbehalten."
 theme: jekyll-theme-cayman
 markdown: kramdown
 permalink: pretty
-
-defaults:
-  - scope:
-      path: "stories"
-    values:
-      layout: default
