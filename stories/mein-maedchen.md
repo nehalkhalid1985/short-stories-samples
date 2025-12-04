@@ -92,7 +92,7 @@ Die Zimmertür öffnete sich quietschend einen Spalt breit, durch den zwei Perso
 ---
 
 **Quelle:**  <br>
-Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 11. 
+Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 11, © 2008. 
 
 **Hinweis zur Nutzung:** <br> 
 Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
