@@ -74,7 +74,7 @@ _... warum ich? ... warum wir?«_
 ---
 
 **Quelle:**  <br>
-Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 16. 
+Anthologie *„So vergeht die Zeit“ (2004–2014)*, Geschichte 16, 2011. 
 
 **Hinweis zur Nutzung:** <br> 
 Diese Leseprobe ist **nicht** zur Weiterverbreitung oder Bearbeitung freigegeben. 
