@@ -51,7 +51,7 @@ Ich empfehle Ihnen zunächst alle Geschichten gelesen zu haben, bevor Sie als le
 
 _»Ein großes Werk für den Autor, ein kleines Buch für die Menschheit«_ – in diesem Sinne wünsche ich allen Leserinnen und Lesern eine angenehme _»Reise«_ durch meine literarische Vergangenheit und ganz viel Spaß mit _»So vergeht die Zeit«!_
 
-> Steven Illg &ensp;&ensp;&ensp; Hamburg, im März 2014
+> Steven Illg &ensp;&ensp;&ensp;&ensp;&ensp; Hamburg, im März 2014
 
 </div>
 
