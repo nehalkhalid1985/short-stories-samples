@@ -1,5 +1,6 @@
 ---
 title: Leseproben
+Vorwort: 2014
 Der fiese Lehrer: 2004
 Der Schatten am Fenster: 2006
 Der Ring: ca. 2006 - 2007
@@ -13,6 +14,10 @@ Der Zahn von Löwe: 2014
 
 # Kurzgeschichten
 
+- [Vorwort](./vorwort.md/)
+
+--- 
+
 - [Der fiese Lehrer](./der-fiese-lehrer.md/)
 - [Der Schatten am Fenster](./der-schatten-am-fenster.md/)
 - [Der Ring](./der-ring.md/)
@@ -20,3 +25,4 @@ Der Zahn von Löwe: 2014
 - [Mein Mädchen](./mein-maedchen.md/)
 - [Jeder wäre der Falsche](./jeder-waere-der-falsche.md/)
 - [Der Zahn von Löwe](./der-zahn-von-loewe.md/)
+
