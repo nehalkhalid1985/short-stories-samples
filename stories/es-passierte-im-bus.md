@@ -46,7 +46,7 @@ Schlagartig drehte ich den Zettel auf meinem Oberschenkel um, öffnete meine Aug
 
 <br>
 
-&emsp;&emsp; _»Ich liebe dich ♡«_
+&emsp; _»Ich liebe dich ♡«_
 
 </div>
 
