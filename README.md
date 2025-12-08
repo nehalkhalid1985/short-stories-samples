@@ -30,7 +30,7 @@ Bitte lies achtsam und pausiere, wenn es dir nicht guttut.
 │  └─ default.html             # Standard-Layout, bindet CSS ein
 │
 ├─ assets/                     # Statische Dateien für die Website
-│  └─ css/
+│  ├─ css/
 │  │   └─ style.scss           # Custom-Styles: Layout, Typografie, Farben
 │  └─ img/
 │     └─ cover.jpg             # Buchcover der Printfassung
