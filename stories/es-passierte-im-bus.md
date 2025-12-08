@@ -44,7 +44,9 @@ Ich träumte von den unterschiedlichsten Ideen, Wünsche und Vorstellungen, mit 
 
 Schlagartig drehte ich den Zettel auf meinem Oberschenkel um, öffnete meine Augen und las folgende drei Worte auf dem Stückpapier:
 
-> _»Ich liebe dich ♡«_
+<br>
+
+&emsp;&emsp; _»Ich liebe dich ♡«_
 
 </div>
 
