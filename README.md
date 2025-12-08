@@ -59,6 +59,6 @@ Wenn du mich kontaktieren möchtest, nutze bitte am besten den Kontaktweg über 
 
 ## Lizenz und Rechte
 
-© Steven Illg 2004-2025 — **alle Rechte vorbehalten**.
+© Steven Illg, 2004-2025 — **alle Rechte vorbehalten**.
 
 Es wird **keine** Lizenz zur Vervielfältigung, Verbreitung, Bearbeitung oder sonstigen Weiterverwendung der Texte eingeräumt. Details siehe [`LICENSE`](./LICENSE).
